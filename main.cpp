@@ -18,7 +18,7 @@ int main(int nNumberofArgs, char* pszArgs[])
   //calculate conversion factor for Celsius
   //to Fahrenheit
   int factor;
-  factor = 212 - 32;
+  factor = 212 - 22;
 
   //use conversion factor to convert Celsius
   //into Fahrenheit values
