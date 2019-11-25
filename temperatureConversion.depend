@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573338461 source:d:\adisesh\c++ programming\temperatureconversion\main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
